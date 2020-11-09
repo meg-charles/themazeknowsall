@@ -1,0 +1,28 @@
+body{
+  color: white;
+  background-color: #053305;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-image: url("hedge.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+a{
+  color: white;
+}
+
+#arch{
+  position: absolute;
+  top: 100px;
+  left: 550px;
+}
+
+#shed{
+  position: absolute;
+  top: 100px;
+  left: 600px
+}
+
+#shed:hover{
+  opacity: 0.0;
+}
